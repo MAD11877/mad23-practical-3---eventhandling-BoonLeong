@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Leong\'s Application</string>
+    <string name="button_text_unfollow">UNFOLLOW</string>
+    <string name="button_text_follow">FOLLOW</string>
+    <string name="desc_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="button_text_message">MESSAGE</string>
+</resources>

@@ -1,0 +1,10 @@
+#Fri Apr 28 21:26:26 SGT 2023
+base.0=C\:\\Users\\gohbo\\Documents\\NP Module Files\\MOBILE APPLICATIONS DEVELOPMENT(2_MAD_011877)\\Assignments\\Week 1 & 2\\Practical 2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\gohbo\\Documents\\NP Module Files\\MOBILE APPLICATIONS DEVELOPMENT(2_MAD_011877)\\Assignments\\Week 1 & 2\\Practical 2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\gohbo\\Documents\\NP Module Files\\MOBILE APPLICATIONS DEVELOPMENT(2_MAD_011877)\\Assignments\\Week 1 & 2\\Practical 2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
