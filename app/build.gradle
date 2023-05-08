@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.leongsapplication'
+    namespace 'sg.edu.np.mad.madpractical'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.leongsapplication"
+        applicationId "sg.edu.np.mad.madpractical"
         minSdk 21
         targetSdk 33
         versionCode 1

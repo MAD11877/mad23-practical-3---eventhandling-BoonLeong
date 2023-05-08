@@ -1,4 +1,4 @@
-com.example.leongsapplication
+sg.edu.np.mad.madpractical
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -2896,6 +2896,7 @@ id baseline
 id beginOnFirstDraw
 id beginning
 id bestChoice
+id blankFrameLayout
 id blocking
 id bottom
 id bounce
@@ -3011,6 +3012,8 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id grp1Button
+id grp2Button
 id header_title
 id hideable
 id home
@@ -3023,6 +3026,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id indeterminate
@@ -3043,6 +3047,7 @@ id line3
 id linear
 id linearLayout
 id listMode
+id listUserImage
 id list_item
 id m3_side_sheet
 id marquee
@@ -3408,7 +3413,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_list
 layout activity_main
+layout activity_message_group
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3425,6 +3432,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_group1
+layout fragment_group2
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3532,12 +3541,13 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
-string desc_placeholder
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string grp1_fragment_text
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -3648,6 +3658,8 @@ string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
+string toast_followed
+string toast_unfollowed
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -4184,7 +4196,7 @@ style Theme_Design_Light
 style Theme_Design_Light_BottomSheetDialog
 style Theme_Design_Light_NoActionBar
 style Theme_Design_NoActionBar
-style Theme_LeongsApplication
+style Theme_MADPractical
 style Theme_Material3_Dark
 style Theme_Material3_Dark_BottomSheetDialog
 style Theme_Material3_Dark_Dialog
